@@ -33,8 +33,7 @@ I look forward to the successful completion and launch of the Healtha app.
 
 
 
-
-## 🛠 Skills                 
+<h3 align="left"> 🛠 Skills </h3> <br>              
 Git & Github              
 Linux, Microsoft office      
 Javascript, HTML, CSS
@@ -53,7 +52,9 @@ Problem solving skills - Codeforces
 <img  src="https://static-00.iconduck.com/assets.00/clion-icon-512x512-tvyolucv.png" alt="CLion" width="50" height="50"/> &nbsp;
 <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png" alt="PyCharm" width="50" height="50"/> &nbsp;
 <img src="https://static-00.iconduck.com/assets.00/android-studio-icon-486x512-zp9um7zl.png" alt="Android Studio" width="50" height="50" style="margin:0 auto; display:block;"/> &nbsp;
-
+<br>
+<br>
+<br>
 
 ## 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarasamira&show_icons=true&locale=en&layout=compact" alt="sarasamira" /></p>
