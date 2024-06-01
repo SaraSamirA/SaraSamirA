@@ -31,6 +31,8 @@ I look forward to the successful completion and launch of the Healtha app.
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-samir-20265a222/)
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarasamir0105@gmail.com)
+
 
 
 ## 🛠 Skills             
@@ -85,10 +87,3 @@ I look forward to the successful completion and launch of the Healtha app.
 ##
 <p>I am constantly seeking new opportunities for learning and growth. If you have any inquiries or wish to collaborate on a project, don't hesitate to reach out to me.</p>
 
-<p align="center">
-  <i>Let's connect!</i>
-
-  <p align="center">
-     <a href="sarasamir0105@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    
-  </p>
